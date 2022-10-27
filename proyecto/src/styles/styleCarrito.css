@@ -1,0 +1,10 @@
+.fondoBarraCarrito{
+    background-color: red;
+}
+.btnCarrito{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 1%;
+    margin: 1%;
+}

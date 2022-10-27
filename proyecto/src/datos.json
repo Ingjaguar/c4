@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre":"Camisa",
+        "precio": 800,
+        "stock": 100,
+        "descripcion": "Color blanco"
+    },
+    {
+        "id": 2,
+        "nombre":"Pantalon",
+        "precio": 1000,
+        "stock": 100,
+        "descripcion": "Color Azul"
+    },
+    {
+        "id": 3,
+        "nombre":"Tennis",
+        "precio": 1100,
+        "stock": 100,
+        "descripcion": "Color Negro"
+    }
+]

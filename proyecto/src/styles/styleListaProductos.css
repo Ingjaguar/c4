@@ -1,0 +1,11 @@
+.fondoBarraListaProducto{
+    background-color:blue;
+}
+
+.btnProductos{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 1%;
+    margin: 1%;
+}
